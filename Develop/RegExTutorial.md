@@ -1,6 +1,6 @@
-# Title (replace with your title)
+# Tutorial of Regular Expression
 
-Introductory paragraph (replace this with your text)
+In this tutorial, we will explain the meaning or using Regular Expression or RegEx for short and will explore different ways this can be used.
 
 ## Summary
 
